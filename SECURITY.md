@@ -11,4 +11,4 @@ As of 10/21/2023, all versions before 8a are considered legacy, and should not b
 
 ## Reporting a Vulnerability
 
-You can report vulnerabilities using the "Report Vulnerability" Button on the top right of the page.
+Go to the security tab, then use the "Report Vulnerability" Button on the top right of the page.
